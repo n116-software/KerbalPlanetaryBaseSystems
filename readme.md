@@ -79,7 +79,7 @@ You need [ModuleManager](http://forum.kerbalspaceprogram.com/index.php?/topic/50
 ### Looking for help:  
 If anyone is interested to translate KPBS into **Japanese** or finish **Brazilian Portuguese**, please let me know!
 
-You can find all the texts that need translation here: [KPBS Texts](https://github.com/Nils277/KerbalPlanetaryBaseSystems/tree/master/Translation). (5916 Words)  
+You can find all the texts that need translation here: [KPBS Texts](https://github.com/n116-software/KerbalPlanetaryBaseSystems/tree/master/Translation). (5916 Words)  
 
 ***Important***: Please contact me before you start with the translation. It already happend more than once that  
 multiple persons worked on a translation for the same texts and therefore their efforts were in vain.  
@@ -104,6 +104,6 @@ The plugin code is licensed under:
 
 ## Author
 
-Nils277  
+Nils277
 [JPLRepo](http://forum.kerbalspaceprogram.com/index.php?/profile/114736-jplrepo/) and [MerlinsMaster](http://forum.kerbalspaceprogram.com/index.php?/profile/112079-merlinsmaster/) for the Deepfreeze parts. **License**: [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 [RoverDude](http://forum.kerbalspaceprogram.com/index.php?/profile/105198-roverdude/) for the Community Category Pack and Community Category Kit. **License**: [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
